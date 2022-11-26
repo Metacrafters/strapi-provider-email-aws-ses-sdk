@@ -14,7 +14,7 @@
   },
   "main": "./lib",
   "dependencies": {
-    "aws-sdk": "2.882.0"
+    "@aws-sdk/client-ses": "^3.216.0"
   },
   "author": {
     "email": "choco87@gmail.com",
